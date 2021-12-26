@@ -1,0 +1,17 @@
+.music-thumbnails-horizontal .music-thumbnail {
+	width: 160px;
+	height: 200px;
+	margin: 5px;
+	border: 1px solid hsla(0,0%,50%,.1);
+	vertical-align: top;
+	display: inline-block;
+	font-weight: 700;
+	margin-left: 0px;
+}
+.music-thumbnails-horizontal .music-thumbnail-title {
+	text-align: left;
+	line-height: 1.4em;
+	max-height: 2.8em;
+	margin: 7px;
+    margin-top: 0px;
+}
